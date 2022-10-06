@@ -1,2 +1,2 @@
 # MyLabWorks-
-# This is for my cs lab works
+# This is for my datastructure lab works
